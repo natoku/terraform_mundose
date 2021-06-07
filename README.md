@@ -1,2 +1,5 @@
 Práctica de Terraform
-Cambiolocal
+Cambio local
+
+Cambio nube
+
